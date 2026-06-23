@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sumant07official/Daily-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
