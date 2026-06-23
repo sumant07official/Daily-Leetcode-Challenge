@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sumant07official/Daily-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/sumant07official/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sumant07official/Daily-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Counting
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sumant07official/Daily-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
