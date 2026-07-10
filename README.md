@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/sumant07official/Daily-Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sumant07official/Daily-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sumant07official/Daily-Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sumant07official/Daily-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sumant07official/Daily-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sumant07official/Daily-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Array
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/sumant07official/Daily-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sumant07official/Daily-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sumant07official/Daily-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sumant07official/Daily-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sumant07official/Daily-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/sumant07official/Daily-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
@@ -110,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sumant07official/Daily-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/sumant07official/Daily-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
@@ -138,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sumant07official/Daily-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/sumant07official/Daily-Leetcode/tree/master/3620-network-recovery-pathways) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
