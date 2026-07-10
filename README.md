@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/sumant07official/Daily-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sumant07official/Daily-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sumant07official/Daily-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/sumant07official/Daily-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sumant07official/Daily-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
