@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/sumant07official/Daily-Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sumant07official/Daily-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sumant07official/Daily-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/sumant07official/Daily-Leetcode/tree/master/1622-fancy-sequence) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sumant07official/Daily-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
