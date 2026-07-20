@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sumant07official/Daily-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sumant07official/Daily-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sumant07official/Daily-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sumant07official/Daily-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
