@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumant07official/Daily-Leetcode/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/sumant07official/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumant07official/Daily-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/sumant07official/Daily-Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumant07official/Daily-Leetcode/tree/master/0001-two-sum) |
 | [1260-shift-2d-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sumant07official/Daily-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
