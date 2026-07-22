@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumant07official/Daily-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sumant07official/Daily-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sumant07official/Daily-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumant07official/Daily-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sumant07official/Daily-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sumant07official/Daily-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumant07official/Daily-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sumant07official/Daily-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/sumant07official/Daily-Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/sumant07official/Daily-Leetcode/tree/master/1622-fancy-sequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Number Theory
 |  |
 | ------- |
