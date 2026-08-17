@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sumant07official/Daily-Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sumant07official/Daily-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sumant07official/Daily-Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sumant07official/Daily-Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/sumant07official/Daily-Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumant07official/Daily-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sumant07official/Daily-Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sumant07official/Daily-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sumant07official/Daily-Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sumant07official/Daily-Leetcode/tree/master/1563-stone-game-v) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sumant07official/Daily-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sumant07official/Daily-Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumant07official/Daily-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/sumant07official/Daily-Leetcode/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sumant07official/Daily-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sumant07official/Daily-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumant07official/Daily-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sumant07official/Daily-Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/sumant07official/Daily-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sumant07official/Daily-Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sumant07official/Daily-Leetcode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
