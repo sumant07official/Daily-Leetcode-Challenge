@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/sumant07official/Daily-Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/sumant07official/Daily-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sumant07official/Daily-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sumant07official/Daily-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumant07official/Daily-Leetcode/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/sumant07official/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumant07official/Daily-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sumant07official/Daily-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/sumant07official/Daily-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumant07official/Daily-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumant07official/Daily-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sumant07official/Daily-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumant07official/Daily-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sumant07official/Daily-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sumant07official/Daily-Leetcode/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sumant07official/Daily-Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/sumant07official/Daily-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sumant07official/Daily-Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumant07official/Daily-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sumant07official/Daily-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
